@@ -1,3 +1,3 @@
 Capstone
 
-https://storagexx2.blob.core.windows.net/data/AdventureWorksTravelDatasets.zip
+https://drive.google.com/file/d/1ccCVtfeHU_ziifPoUDDfftgZkOM2sEPV/view?usp=sharing
